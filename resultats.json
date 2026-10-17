@@ -1,0 +1,65 @@
+{
+ "mode_d_emploi": "Pour chaque match, 'vainqueurs' = le vainqueur de chaque partie dans l'ordre, a = première équipe, b = deuxième (ex: aabba). Vide = match à venir. Ne change pas 'id'. Garde les guillemets et les virgules.",
+ "matchs": [
+  {
+   "id": "val:NRG-KC-2026-07-06",
+   "match": "Esports World Cup · Groupe B · NRG (a) – KC (b)",
+   "vainqueurs": "aba",
+   "note": ""
+  },
+  {
+   "id": "val:KC-XLG-2026-09-25",
+   "match": "Champions · Groupe D · Ouverture · KC (a) – XLG (b)",
+   "vainqueurs": "aa",
+   "note": ""
+  },
+  {
+   "id": "val:KC-NRG-2026-09-29",
+   "match": "Champions · Groupe D · Match des vainqueurs · KC (a) – NRG (b)",
+   "vainqueurs": "abb",
+   "note": ""
+  },
+  {
+   "id": "val:KC-NS-2026-10-03",
+   "match": "Champions · Groupe D · Décisif · KC (a) – NS (b)",
+   "vainqueurs": "abb",
+   "note": "Série perdue 1–2 contre Nongshim RedForce. Détail et ordre des cartes non renseignés."
+  },
+  {
+   "id": "lol:C9-KC-2026-10-15",
+   "match": "Play-In · Upper Bracket · C9 (a) – KC (b)",
+   "vainqueurs": "ababb",
+   "note": "Karmine Corp s'impose 3–2 après avoir été menée 1–2. Seul le score final est confirmé : l'ordre des parties n'est pas renseigné."
+  },
+  {
+   "id": "lol:FUR-MVK-2026-10-15",
+   "match": "Play-In · Upper Bracket · FUR (a) – MVK (b)",
+   "vainqueurs": "bbb",
+   "note": "MVK Esports balaie FURIA 3–0. Détail des parties non renseigné."
+  },
+  {
+   "id": "val:VIT-LOUD-2026-10-16",
+   "match": "Champions · Playoffs · Finale du tableau haut · VIT (a) – LOUD (b)",
+   "vainqueurs": "",
+   "note": ""
+  },
+  {
+   "id": "val:100T-G2-2026-10-16",
+   "match": "Champions · Playoffs · Tableau bas, tour 3 · 100T (a) – G2 (b)",
+   "vainqueurs": "",
+   "note": ""
+  },
+  {
+   "id": "lol:KC-MVK-2026-10-16",
+   "match": "Play-In · Finale du tableau haut · KC (a) – MVK (b)",
+   "vainqueurs": "",
+   "note": "Le vainqueur file en grande finale du Play-In (18 oct.). Résultat à confirmer."
+  },
+  {
+   "id": "lol:C9-FUR-2026-10-16",
+   "match": "Play-In · Tableau bas, tour 1 · C9 (a) – FUR (b)",
+   "vainqueurs": "",
+   "note": "Élimination directe : le perdant quitte les Worlds. Résultat à confirmer."
+  }
+ ]
+}
